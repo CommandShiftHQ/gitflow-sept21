@@ -11,6 +11,9 @@ function App() {
         <h4>Git branching</h4>
         <p>Tuesday's lesson- breakout room 1</p>
       </main>
+      <footer>
+        <h2>Breakout Room 2 was here!</h2>
+      </footer>
     </div>
   );
 }
