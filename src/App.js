@@ -1,13 +1,17 @@
-import "./App.css";
+import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1 className="App-header-title">My website</h1>
-      </header>
-    </div>
-  );
+	return (
+		<div className="App">
+			<header className="App-header">
+				<main>
+					<h1>Git Pull practice page</h1>
+					<p>Tuesday's lesson- breakout room 1</p>
+				</main>
+				<h1 className="App-header-title">My website</h1>
+			</header>
+		</div>
+	);
 }
 
 export default App;
